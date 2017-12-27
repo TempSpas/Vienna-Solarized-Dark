@@ -2,7 +2,7 @@
 
 This is a simple style for the [Vienna RSS reader](https://github.com/ViennaRSS/vienna-rss) based on the [Solarized](http://ethanschoonover.com/solarized) color palette.
 
-![Dark Screenshot(/screenshots/darkscreenshot.png?raw=true)]
+![Dark Screenshot](/screenshots/darkscreenshot.png?raw=true)
 
 ![Light Screenshot](/screenshots/lightscreenshot.png?raw=true)
 
